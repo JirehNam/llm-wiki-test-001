@@ -8,7 +8,7 @@ source_url: "https://share.note.sx/exsfp96r#buivPS10IM6QpMWyS3ZI9LBXHGpqW/Xtl3mK
 authors:
 publish_date:
 ---
-# [프롬프트] 카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기, 시도해봤습니다 — 클로드 코드 × 옵시디언 × Graphify
+# [프롬프트] 카파시의 LLM Wiki로 나만의 AI 세컨드 브레인 만들기
 
 ## 한 줄 요약
 
